@@ -29,6 +29,10 @@ v2 adds null-move pruning, history ordering, delta-pruned quiescence,
 a 100k node budget and an endgame king table: +1 search depth at the
 same positions (startpos 6, kiwipete 4) at 30–70k nodes/s.
 
+Revision: the quiescence delta-pruning margin was tightened from 200
+to 150 cp, so bad captures are skipped sooner and more nodes reach the
+main search.
+
 ## Run
 
 `python3 main.py` — it talks to the gauntlet env at `MAKEFUN_ENV_URL`
