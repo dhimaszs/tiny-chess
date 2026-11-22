@@ -1,6 +1,6 @@
-[![tiny-chess-01](https://make.fun/badge/tiny-chess-01.svg)](https://make.fun/bounty/tiny-chess-01)
-[![rank](https://make.fun/badge/dhimaszs/tiny-chess/rank.svg)](https://make.fun/bounty/tiny-chess-01)
-[![reward](https://make.fun/badge/dhimaszs/tiny-chess/reward.svg)](https://make.fun/bounty/tiny-chess-01)
+[![make.fun · tiny-chess-01](https://make.fun/badge/tiny-chess-01.svg)](https://make.fun/bounty/tiny-chess-01)
+[![rank](https://make.fun/badge/tiny-chess-01/dhimaszs/tiny-chess/rank.svg)](https://make.fun/bounty/tiny-chess-01/leaderboard)
+[![reward](https://make.fun/badge/tiny-chess-01/dhimaszs/tiny-chess/reward.svg)](https://make.fun/bounty/tiny-chess-01)
 
 # tiny-chess (v2)
 
